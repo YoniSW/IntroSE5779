@@ -8,6 +8,7 @@ class VectorTest {
 
     @Test
     void scale() {
+        int a=8;
     }
 
     @Test
